@@ -163,8 +163,53 @@ const LoveAboutYou = () => {
       delay: 0.5
     },
     {
-      title: "How You Make Me Feel At Home",
-      description: "When I'm with you I always feel like I'm at home. You are my comfort zone my sweetheart 😘",
+      title: "Your Desires",
+      description: "I love that you desire to build a future with me :)",
+      delay: 0.5
+    },
+    {
+      title: "Your Willingness To Work Through Tought Times",
+      description: "I love that you are always willing to go through the tought times of our relationship. It just makes our relationship much stronger🤗",
+      delay: 0.5
+    },
+    {
+      title: "When You Talk To Cats",
+      description: "I love the way you talk to cats baby like they understanddd🫠 you are the cutest person. mwuuuaaahhhh",
+      delay: 0.5
+    },
+    {
+      title: "Your Voice Messages",
+      description: "I love listening to your voice messages. listening to your voice always makes my day :)))",
+      delay: 0.5
+    },
+    {
+      title: "The Way You Accept Me",
+      description: "I love the way you accept me despite of any differences with you",
+      delay: 0.5
+    },
+    {
+      title: "Your Loyalty",
+      description: "I love the way you always stays loyal, humble and honest with me😘",
+      delay: 0.5
+    },
+    {
+      title: "Your Trust",
+      description: "I love the way you trust me and our relationship, that one day we are gonna make out of long distance. And I promise we will, we'll live together forever after that🤗",
+      delay: 0.5
+    },
+    {
+      title: "How You Talk To Yourself White Thinking",
+      description: "I love the way you talk to yourself while thinking about anything. It just adds to your cutenessss :)",
+      delay: 0.5
+    },
+    {
+      title: "The Way You Talk To Your Relatives",
+      description: "I love the way you talk to your relatives in the sweetest voice ever babyy😘",
+      delay: 0.5
+    },
+    {
+      title: "You Chose me everyday",
+      description: "I love the fact that you chosse me everyday and that you are willing to build a future with me 🥹",
       delay: 0.5
     },
   ];
