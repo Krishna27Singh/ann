@@ -18,6 +18,16 @@ const LoveAboutYou = () => {
       delay: 0.1
     },
     {
+      title: "Your Eyes",
+      description: "You have the most beautiful eyes in the world bebi and I just wanna lost into them foreverrrrr🫠",
+      delay: 0.1
+    },
+    {
+      title: "Your Voice",
+      description: "You have the most calming voice babyyyy",
+      delay: 0.1
+    },
+    {
       title: "Your Nature",
       description: "Your kind and caring nature always melts my heart 🫠. And I love how much helping you are towards everyone.",
       delay: 0.1
@@ -61,7 +71,102 @@ const LoveAboutYou = () => {
       title: "Your Dreams",
       description: "I love hearing about your aspirations and watching you work towards your goals.",
       delay: 0.6
-    }
+    },
+    {
+      title: "The Way You Make Me Feel Important",
+      description: "I love the way you make me feel important bebi and share everything with me 💞",
+      delay: 0.5
+    },
+    {
+      title: "Your Emotional Intelligence",
+      description: "I love the way you connect with me emotionally 😘",
+      delay: 0.5
+    },
+    {
+      title: "The Way You Support Me",
+      description: "I love the way you support me and my dreams baby and I love the way you calm me down 🥹",
+      delay: 0.5
+    },
+    {
+      title: "The Way You Listen",
+      description: "I love the way you listen to me baby without any judgement. You are the best girlfriend i could ever haveeee💖",
+      delay: 0.5
+    },
+    {
+      title: "You Forgiveness",
+      description: "I love the way you move on and forgive me for my mistakes baby",
+      delay: 0.5
+    },
+    {
+      title: "Late Night Talks",
+      description: "Those late night talks felt like a therapy to me, throughout the 2 years :)",
+      delay: 0.5
+    },
+    {
+      title: "How You Held My Hand",
+      description: "I love the way you held my hand for the first time baby. I felt like im flying in the sky🫠 and I still get butterflies everytime I hold your hands",
+      delay: 0.5
+    },
+    {
+      title: "The Way You Hug Me",
+      description: "I love the way you hug me babyyyy, I feel so loved🥰",
+      delay: 0.5
+    },
+    {
+      title: "Little Details",
+      description: "I love the way how you remember little details about me and our relationship baby😊",
+      delay: 0.5
+    },
+    {
+      title: "I Love You",
+      description: "I love the way when you randomly say I love you to me. it sparks a smile on my face everytime :)))",
+      delay: 0.5
+    },
+    {
+      title: "Your Art",
+      description: "I love you creativity and you interest in paintings baby. I love you paintings and they are more than everything for me🌎",
+      delay: 0.5
+    },
+    {
+      title: "Your Confidence And Charisma",
+      description: "I love your confidence and the charisma on you face baby. It inspires me",
+      delay: 0.5
+    },
+    {
+      title: "Your Hairs",
+      description: "I love your hairs babyy and always get jealous with them because they get to be with the most beautiful gal in the world 24/7 :/",
+      delay: 0.5
+    },
+    {
+      title: "Your Fashion Sense",
+      description: "I love your fashion sense babyyy😘",
+      delay: 0.5
+    },
+    {
+      title: "Your Expression When You Are Excited",
+      description: "I love your expression filled with joy when you are excited my baby :)",
+      delay: 0.5
+    },
+    {
+      title: "Your Blush",
+      description: "I love your natural blush and it is just the perfect thing and it just melts my heartttt🫠😘❤️",
+      delay: 0.5
+    },
+    {
+      title: "Your Honesty",
+      description: "I love that you were always honest to me baby about everything :)",
+      delay: 0.5
+    },
+    {
+      title: "How You Make Me Feel At Home",
+      description: "When I'm with you I always feel like I'm at home. You are my comfort zone my sweetheart 😘",
+      delay: 0.5
+    },
+    {
+      title: "How You Make Me Feel At Home",
+      description: "When I'm with you I always feel like I'm at home. You are my comfort zone my sweetheart 😘",
+      delay: 0.5
+    },
   ];
 
   return (
