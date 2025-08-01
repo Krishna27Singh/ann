@@ -36,34 +36,7 @@ const Landing = () => {
           </motion.div>
 
           {/* Floating Hearts Around Text */}
-          <motion.div
-            animate={{ rotate: 360 }}
-            transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
-            className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-96 h-96 pointer-events-none"
-          >
-            {[...Array(8)].map((_, i) => (
-              <motion.div
-                key={i}
-                className="absolute text-2xl text-romantic-red/60"
-                style={{
-                  top: `${50 + 40 * Math.cos((i * Math.PI * 2) / 8)}%`,
-                  left: `${50 + 40 * Math.sin((i * Math.PI * 2) / 8)}%`,
-                  transform: 'translate(-50%, -50%)',
-                }}
-                animate={{
-                  scale: [1, 1.2, 1],
-                  opacity: [0.6, 1, 0.6],
-                }}
-                transition={{
-                  duration: 2,
-                  delay: i * 0.2,
-                  repeat: Infinity,
-                }}
-              >
-                💕
-              </motion.div>
-            ))}
-          </motion.div>
+          
 
           {/* Call to Action */}
           <motion.div
