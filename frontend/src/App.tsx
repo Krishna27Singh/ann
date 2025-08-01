@@ -20,6 +20,12 @@ import Intentions from "./pages/Intentions";
 import Nicknames from "./pages/Nicknames";
 import OurFuture from "./pages/OurFuture";
 import NotFound from "./pages/NotFound";
+import Smile from "./pages/Smile";
+import Sad from "./pages/sad";
+import Miss from "./pages/miss";
+import Message from "./pages/Message";
+import Mad from "./pages/mad";
+import Doubt from "./pages/Doubt";
 
 const queryClient = new QueryClient();
 
@@ -56,6 +62,12 @@ const App = () => {
             <Route path="/intentions" element={<Intentions />} />
             <Route path="/nicknames" element={<Nicknames />} />
             <Route path="/our-future" element={<OurFuture />} />
+            <Route path="/smile" element={<Smile />} />
+            <Route path="/sad" element={<Sad />} />
+            <Route path="/miss" element={<Miss />} />
+            <Route path="/message" element={<Message />} />
+            <Route path="/mad" element={<Mad />} />
+            <Route path="/doubt" element={<Doubt />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>

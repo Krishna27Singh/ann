@@ -42,6 +42,42 @@ const Journey = () => {
       icon: "🌟",
       route: "/our-future",
       delay: 0.6
+    },
+    {
+      title: "Open This When You Miss Me",
+      icon: "😘",
+      route: "/miss",
+      delay: 0.6
+    },
+    {
+      title: "Open This When You Are Mad Me",
+      icon: "🫠",
+      route: "/mad",
+      delay: 0.6
+    },
+    {
+      title: "Open This When You Sad",
+      icon: "🤗",
+      route: "sad",
+      delay: 0.6
+    },
+    {
+      title: "Open This When You Need To Smile",
+      icon: "🥰",
+      route: "/smile",
+      delay: 0.6
+    },
+    {
+      title: "Open This When You Doubt Us",
+      icon: "🙁",
+      route: "/doubt",
+      delay: 0.6
+    },
+    {
+      title: "My Message To You",
+      icon: "💌",
+      route: "/message",
+      delay: 0.6
     }
   ];
 
