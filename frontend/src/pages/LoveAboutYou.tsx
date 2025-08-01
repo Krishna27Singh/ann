@@ -9,22 +9,42 @@ const LoveAboutYou = () => {
   const loveReasons = [
     {
       title: "Your Beautiful Smile",
-      description: "The way your face lights up when you smile makes my whole world brighter. It's like sunshine breaking through clouds.",
+      description: "The way your face lights up when you smile makes my whole world brighter :) It's like sunshine breaking through clouds.",
+      delay: 0.1
+    },
+    {
+      title: "Your Face",
+      description: "You have the cutest and most inncoent face anyone could ever have babyyy 😘 I love u soooooooo muchhhhhhhh",
+      delay: 0.1
+    },
+    {
+      title: "Your Nature",
+      description: "Your kind and caring nature always melts my heart 🫠. And I love how much helping you are towards everyone.",
       delay: 0.1
     },
     {
       title: "Your Kind Heart",
-      description: "You have the most caring and compassionate soul. You always think of others and spread love wherever you go.",
+      description: "You have the most caring heart ever. You always think of others and spread love wherever you go ❤️",
+      delay: 0.2
+    },
+    {
+      title: "The Way You Speak",
+      description: "I love the way you speak so politely and so lovely 😃 even with strangers.",
       delay: 0.2
     },
     {
       title: "Your Laugh",
-      description: "Your laugh is music to my ears. It's contagious and fills every room with joy and warmth.",
+      description: "Your laugh is music to my ears. It's contagious and fills every room with joy and warmth :)))",
+      delay: 0.3
+    },
+    {
+      title: "Your Thoughtfulness",
+      description: "I love how much thoughtful you are towards everyting. It just makes me happy :)",
       delay: 0.3
     },
     {
       title: "Your Intelligence",
-      description: "I love how smart and thoughtful you are. Our conversations always inspire me and make me see the world differently.",
+      description: "I love how smart and thoughtful you are. I always get inspired by you and I always love learning from you my guiding angel😘",
       delay: 0.4
     },
     {
@@ -33,8 +53,13 @@ const LoveAboutYou = () => {
       delay: 0.5
     },
     {
+      title: "Your Passion",
+      description: "I love how much passionate you are towards your career and academics and everything. It just always inspires me and pushes me :)",
+      delay: 0.5
+    },
+    {
       title: "Your Dreams",
-      description: "I love hearing about your aspirations and watching you work towards your goals. Your passion is inspiring.",
+      description: "I love hearing about your aspirations and watching you work towards your goals.",
       delay: 0.6
     }
   ];

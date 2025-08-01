@@ -26,7 +26,7 @@ const AnimatedBackground = () => {
 
   useEffect(() => {
     const elementArray: FloatingElement[] = [];
-    for (let i = 0; i < 40; i++) {
+    for (let i = 0; i < 0; i++) {
       const randomEmoji = allEmojis[Math.floor(Math.random() * allEmojis.length)];
       elementArray.push({
         id: i,
