@@ -16,7 +16,7 @@ const Landing = () => {
     <div className="min-h-screen relative overflow-hidden font-playwrite bg-gradient-to-b from-pink-100 to-pink-200">
       <AnimatedBackground />
 
-      <div className="relative flex justify-center mb-[-230px] mt-[10px]">
+      <div className="relative flex justify-center mb-[-250px] mt-[30px]">
         <motion.img
           src="/love-photo.png"
           alt="Us"
@@ -117,7 +117,7 @@ const Landing = () => {
           transition={{ delay: 1.6, duration: 0.8 }}
           className="absolute bottom-8 text-center text-foreground/60 text-lg"
         >
-          Hand-coded with love by your biggest fan, Krishna Singh 💖
+          Hand-coded with love by your biggest fan 💖
         </motion.div>
       </div>
 
