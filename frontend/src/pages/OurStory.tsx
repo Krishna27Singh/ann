@@ -46,49 +46,49 @@ const OurStory = () => {
       date: "Valentine's Day | Sixth Meet",
       title: "Our First Valentine's Day Together",
       description: "This was our first valentine's day together and I was very excited to meet you🫠 we went to antariksh mall and took a lot of photos. You sat on the virtual ride chair and I was so happy to see you :).",
-      image: "/images/story-5.jpg",
+      image: "/images/story-6.jpg",
       delay: 0.5
     },
     {
       date: "Electrothon | Seventh Meet",
       title: "I Came To Your College For The First Time",
       description: "This was the time that I came to your college for the first time and the first project that we build together, we sat on the auditorium holding our hands together and I was so happy to be with you :) we went to the dark spots and we kissed and we had our intimate time😘 I wish we kissed for below the LH stairs🥹. After the hackathon we had a fight because of my mistake and misunderstanding and I was very sad that we had to go through that phase but at the end we said goodbyes in a good spirit and I was happy for that and this taught me a lots of learnings",
-      image: "/images/story-5.jpg",
+      image: "/images/story-7.jpg",
       delay: 0.5
     },
     {
       date: "Our Second Trip | Eighth meet",
       title: "Our Trip To Sujanpur",
       description: "This was our short but second trip to sujanpur where we went to a temple and a river, I was very happy to see the river :) we took the best photos there and we made a lot of memories together🫠 I was melted for the whole time seeing you in that lovely pink dress. You were looking like an angel😘. We also went to the TDF together and was very happy to see that place :) we also repaired your laptop and I was so happy that your laptop was okay now😊.",
-      image: "/images/story-5.jpg",
+      image: "/images/story-8.jpg",
       delay: 0.5
     },
     {
       date: "Airport meet | Ninth meet",
       title: "You Went To Banglore",
       description: "You went to Banglore and travelled in the flight for the first time and im so happy that I was with you during this :) I was a bit anxious because you were travelling to a whole new city for the first time and I was thinking that I should be with you but I wasn't able to. You achieved 4th rank in the TI hackathon and I was very happy with your success😘.",
-      image: "/images/story-5.jpg",
+      image: "/images/story-9.jpg",
       delay: 0.5
     },
     {
       date: "Our Third Trip | Tenth meet",
       title: "Our Trip To New Delhi",
       description: "We met after 95 days this time and each day felt like an year. I couldn't express how much excited and emotional I was to see you🥹 we went to the coorporate world together this time and We Secured 6th Position in the Hackathon and I was so happy that we achieved something together :) we travelled to the most famous monuments in India together, we travelled in the India's best metro together and I was so happy that you were in Delhi for the first time and was with me😘 in the end moments I painted your nails, kissed you and we said goodbyes to see each other once again :)",
-      image: "/images/story-5.jpg",
+      image: "/images/story-10.jpg",
       delay: 0.5
     },
     {
       date: "Today",
       title: "Two Years Strong",
       description: "Here we are, two incredible years later, and my love for you has only grown stronger and I have fallend for you more and more of these 750 days😘. We have learned so much in these 2 years, we fought with each other, we cried, but we never gave up :) Every morning I wake up grateful that I get to love you and be loved by you.",
-      image: "/images/story-5.jpg",
+      image: "/images/story-11.jpg",
       delay: 0.5
     },
     {
       date: "Forever",
       title: "Our Future",
       description: "This is just the beginning of our beautiful story. I can't wait to create more memories together, overcome challenges together, and continue growing in love for many years to come 💞",
-      image: "/images/story-6.jpg",
+      image: "/images/story-12.jpg",
       delay: 0.6
     }
   ];
