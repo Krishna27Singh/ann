@@ -31,7 +31,7 @@ const Landing = () => {
               & Girlfriend's Day
             </div>
             <div className="text-xl md:text-2xl text-foreground/80 max-w-2xl mx-auto leading-relaxed">
-              Celebrating two beautiful years together and the amazing woman you are
+              to the best girlfriend in the world. Celebrating two beautiful years together and the amazing woman you are
             </div>
           </motion.div>
 
